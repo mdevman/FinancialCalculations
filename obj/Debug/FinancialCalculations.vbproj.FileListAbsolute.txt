@@ -1,0 +1,70 @@
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.exe
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.xml
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.pdb
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 01\FinancialCalculations\bin\Debug\FinancialCalculations.exe
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 01\FinancialCalculations\bin\Debug\FinancialCalculations.pdb
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 01\FinancialCalculations\bin\Debug\FinancialCalculations.xml
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 01\FinancialCalculations\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.frmDepreciation.resources
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.frmInvestment.resources
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.frmMain.resources
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.Resources.resources
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.vbproj.GenerateResource.Cache
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Book applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.exe
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Book applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.xml
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Book applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.pdb
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Book applications\Chapter 01\FinancialCalculations\bin\Debug\FinancialCalculations.exe
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Book applications\Chapter 01\FinancialCalculations\bin\Debug\FinancialCalculations.pdb
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Book applications\Chapter 01\FinancialCalculations\bin\Debug\FinancialCalculations.xml
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Book applications\Chapter 01\FinancialCalculations\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Book applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.frmDepreciation.resources
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Book applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.frmInvestment.resources
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Book applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.frmMain.resources
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Book applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.Resources.resources
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Book applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.vbproj.GenerateResource.Cache
+C:\Documents and Settings\anne\My Documents\Visual Basic 2010\Book applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.exe
+C:\Documents and Settings\anne\My Documents\Visual Basic 2010\Book applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.xml
+C:\Documents and Settings\anne\My Documents\Visual Basic 2010\Book applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.pdb
+C:\Documents and Settings\anne\My Documents\Visual Basic 2010\Book applications\Chapter 01\FinancialCalculations\bin\Debug\FinancialCalculations.exe
+C:\Documents and Settings\anne\My Documents\Visual Basic 2010\Book applications\Chapter 01\FinancialCalculations\bin\Debug\FinancialCalculations.pdb
+C:\Documents and Settings\anne\My Documents\Visual Basic 2010\Book applications\Chapter 01\FinancialCalculations\bin\Debug\FinancialCalculations.xml
+C:\Documents and Settings\anne\My Documents\Visual Basic 2010\Book applications\Chapter 01\FinancialCalculations\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\Visual Basic 2010\Book applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.frmDepreciation.resources
+C:\Documents and Settings\anne\My Documents\Visual Basic 2010\Book applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.frmInvestment.resources
+C:\Documents and Settings\anne\My Documents\Visual Basic 2010\Book applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.frmMain.resources
+C:\Documents and Settings\anne\My Documents\Visual Basic 2010\Book applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.Resources.resources
+C:\Documents and Settings\anne\My Documents\Visual Basic 2010\Book applications\Chapter 01\FinancialCalculations\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\anne\My Documents\Visual Basic 2010\Book applications\Chapter 01\FinancialCalculations\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\anne\My Documents\Visual Basic 2010\Book applications\Chapter 01\FinancialCalculations\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.exe
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.xml
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.pdb
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 01\FinancialCalculations\bin\Debug\FinancialCalculations.exe
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 01\FinancialCalculations\bin\Debug\FinancialCalculations.pdb
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 01\FinancialCalculations\bin\Debug\FinancialCalculations.xml
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 01\FinancialCalculations\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.frmDepreciation.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.frmInvestment.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.frmMain.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.Resources.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 01\FinancialCalculations\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 01\FinancialCalculations\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 01\FinancialCalculations\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 01\FinancialCalculations\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 01\FinancialCalculations\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Book applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.exe
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Book applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.xml
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Book applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.pdb
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Book applications\Chapter 01\FinancialCalculations\bin\Debug\FinancialCalculations.exe.config
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Book applications\Chapter 01\FinancialCalculations\bin\Debug\FinancialCalculations.exe
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Book applications\Chapter 01\FinancialCalculations\bin\Debug\FinancialCalculations.pdb
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Book applications\Chapter 01\FinancialCalculations\bin\Debug\FinancialCalculations.xml
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Book applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.frmDepreciation.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Book applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.frmInvestment.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Book applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.frmMain.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Book applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.Resources.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Book applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.vbproj.GenerateResource.Cache
+C:\Users\opnmpd\Downloads\VB 2012\Student download\Book applications\Chapter 01\FinancialCalculations\bin\Debug\FinancialCalculations.exe.config
+C:\Users\opnmpd\Downloads\VB 2012\Student download\Book applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.exe
+C:\Users\opnmpd\Downloads\VB 2012\Student download\Book applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.xml
+C:\Users\opnmpd\Downloads\VB 2012\Student download\Book applications\Chapter 01\FinancialCalculations\obj\Debug\FinancialCalculations.pdb
